@@ -20,6 +20,16 @@ This file could be used to quickly calculate the dynamics responses with ROM. In
 the response is displacement. 
 --------------------------------------------------------------------
 
+4. model-FEM
+The file includes two models,  plate_with_hole.m and bentpipe.m, 
+which are written in FEM and can be run directly.
+--------------------------------------------------------------------
+
+5. model-IGA
+The file includes two models,  plate_with_hole.m and bentpipe.m, 
+which are written in IGA and can be run directly.
+--------------------------------------------------------------------
+
 *** If you have any comments or suggestions, please feel free to contact us! 
 - Xiaofei Liu, 
 - Hunan Univeristy,
