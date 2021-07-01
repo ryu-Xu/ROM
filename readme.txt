@@ -1,6 +1,6 @@
 This is the README file of the open source MATLAB toolbox: Reduced-order model (ROM) for linear elastic dynamics.
 --------------------------------------------------------------------
-The detailed contents of the folders in NLIGA are listed below:
+The detailed contents of the folders in ROM are listed below:
 --------------------------------------------------------------------
 1. data
 This folder includes the data of two cases and Each of them includes stiffness matrix, 
